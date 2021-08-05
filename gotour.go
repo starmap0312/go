@@ -243,6 +243,6 @@ func main() {
 	// begin, end, 2, 1, 0
 }
 
-// go mod init hello // enable dependency tracking for your code by creating a go.mod file
-// go run helloworld.go
-// go build helloworld.go & ./helloworld
+// go mod init gotour // enable dependency tracking for your code by creating a go.mod file
+// go run gotour.go
+// go build gotour.go & ./gotour
