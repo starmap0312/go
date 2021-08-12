@@ -1,5 +1,7 @@
 package main
 
+// https://tour.golang.org/list
+
 import (
 	"fmt"
 	"math"
